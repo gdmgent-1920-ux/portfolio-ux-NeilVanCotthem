@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css?family=Kavivanar");
+
+:root{
+  --light-gray: #2b3032a1;
+  --primary-color: #1D1B1B;
+  --secondary-color: #EC4D37;
+  --border: #2A3132;
+  --text-color: #ff686b;
+  --roboto:"Roboto", sans-serif;
+  --gugi: "Gugi", cursive;
+  --sofia: "Sofia", cursive;
+}
+
+h2{
+  color: #ffffff;
+  font-family: "PhrasticMedium";
+}
+
+
+
+.primary-color{
+  color: var(--primary-color)
+}
+
+
+
+.text-color{
+  color:var(--text-color);
+}
+
+.font-roboto{
+  font-family: var(--roboto)
+}
+
+.lightblue{
+  color: lightblue;
+}
+
+header{
+  background-color: var(--primary-color);
+  font-family: "PhrasticMedium";
+}
+
+header .site-title{
+  font-family: var(--gugi);
+}
+
+.container .dropdown-toggle,
+.container .dropdown-item{
+  font-size: 0.7em;
+  font-family: var(--roboto);
+  color: white;
+  background-color: black;
+}
+
+.header-links a{
+  font-size: 0.9em;
+  text-decoration: none;
+  color: white;
+}
+
+.navbar-nav{
+  padding:0.8em 0em;
+  color: black;
+}
+
+
+.navbar{
+  color: white;
+  background-color: var(--secondary-color);
+}
+
+.navbar-nav .nav-link{
+  font-size: 0.9em;
+  color: var(--light-gray) !important;
+}
+
+.navbar-nav .nav-item .nav-link{
+  padding: 0 1.3em;
+}
+
+.navbar-nav .basket-icon{
+  margin-right: 6.5rem !important;
+}
+
+.img-fluid {
+  max-width: 100%;
+}
+
+.nav-item{
+  margin:2px;
+  justify-content: space-between;
+}
+
+
+
+body{
+  background-color: var(--primary-color);
+}
+
+h1 {
+  margin-top: 5rem;
+}
+
+.btn{
+  background-color: var(--secondary-color);
+}
+
+.btn-primary{
+  background-color: var(--secondary-color);
+  color: black;
+}
+
+
+

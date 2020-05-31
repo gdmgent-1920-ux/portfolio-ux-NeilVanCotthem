@@ -75,68 +75,43 @@ const data = {
     "assignment3": {
         "buttons": [
             {
-                "text": "Adobe XD",
-                "title": "Mijn Adobe XD document met Wireframes & Visual Design",
-                "href": "./assignments/assignment3/documents/a3-wireframes-visual-designs.xd",
-            },
-            {
-                "text": "Adobe XD Prototype",
-                "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
-                "target": "_blank"
-            },
-            {
-                "text": "Website",
-                "title": "Mijn website voor opdracht 3",
-                "href": "./assignments/assignment3/website/index.html",
-                "target": "_blank"
-            }
-        ]
-    },
-
-    /**
-     * Assignment 4
-     */
-
-    "assignment4": {
-        "buttons": [
-            {
-                "text": "Analyse",
-                "title": "Mijn PDF met een analyse van de gemaakte fouten",
-                "href": "./assignments/assignment4/documents/a4-analysis.pdf",
-                "target": "_blank"
-            },
-            {
                 "text": "Adobe XD (Desktop)",
                 "title": "Mijn Adobe XD document voor de Desktop versie van de applicatie",
-                "href": "./assignments/assignment4/documents/a4-visual-designs-desktop.xd",
+                "href": "./assignments/assignment3/documents/a3-visual-designs-desktop.xd",
             },
             {
                 "text": "Adobe XD (Mobile)",
                 "title": "Mijn Adobe XD document voor de Mobile versie van de applicatie",
-                "href": "./assignments/assignment4/documents/a4-visual-designs-mobile.xd",
+                "href": "./assignments/assignment3/documents/a3-visual-designs-mobile.xd",
             },
             {
                 "text": "Website",
-                "title": "Mijn website voor opdracht 4",
-                "href": "./assignments/assignment4/website/index.html",
+                "title": "Mijn website voor opdracht 3",
+                "href": "./assignments/assignment3/website/HOMEPAGE/index.html",
+                "target": "_blank"
+            },
+            {
+                "text": "Analyse",
+                "title": "Mijn PDF met een analyse van de gemaakte fouten",
+                "href": "./assignments/assignment3/documents/a3-analysis.pdf",
+                "target": "_blank"
+            },
+            {
+                "text": "Adobe XD Prototype DESKTOP",
+                "title": "Mijn Adobe XD prototype (share link)",
+                "href": "https://xd.adobe.com/view/79606a15-4512-4399-74f0-fd1976a03b99-0f51/",
+                "target": "_blank"
+            },
+
+            {
+                "text": "Adobe XD Prototype MOBILE",
+                "title": "Mijn Adobe XD prototype (share link)",
+                "href": "https://xd.adobe.com/view/5ea12623-4490-4731-677b-d0544d4e4ce7-2890/",
                 "target": "_blank"
             }
+           
         ]
     },
 
-    /**
-     * Assignment 5
-     */
-
-    "assignment5": {
-        "buttons": [
-            {
-                "text": "Website",
-                "title": "Mijn website voor opdracht 5",
-                "href": "./assignments/assignment5/website/index.html",
-                "target": "_blank"
-            }
-        ]
-    }
+    
 }
